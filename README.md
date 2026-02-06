@@ -105,7 +105,7 @@
 <div class="hearts"></div>
 
 <div class="card">
-  <h1> Wunmi Will you be my Valentine? 💖</h1>
+  <h1> George do you have a val? 💖</h1>
 
   <div class="buttons">
     <button id="yes">Yes 💘</button>
@@ -171,7 +171,7 @@
         font-family:'Comic Sans MS', cursive;
       ">
         TOO BAD 😌💖<br>
-        sorry im taking  💘
+        of course you dont  💘
       </div>
     `;
   });
